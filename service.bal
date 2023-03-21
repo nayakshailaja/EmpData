@@ -27,7 +27,7 @@ service / on new http:Listener(9090) {
         } else if (number is "456") {
              Employee EmpDetails = {
             ENumber: "456",
-            EName: "Sunit",
+            EName: "Avinash",
             EGender: "M"
         }; 
         return EmpDetails;
